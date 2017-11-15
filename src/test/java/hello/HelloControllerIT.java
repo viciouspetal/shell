@@ -1,4 +1,4 @@
-package java.hello;
+package hello;
 
 import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertThat;
